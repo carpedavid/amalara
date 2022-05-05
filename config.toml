@@ -1,3 +1,68 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://amalara.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = 'menca'
+title = 'Amalara Game Studio'
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+paginate = 9
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "games"
+    name = "Games"
+    url = "/games"
+    weight = 3
+
+[params]
+  logo = "/images/amalara_logo_v2.svg"
+  description = "Menca personal blogging theme for HUGO"
+
+  #-------------------------------
+  # Author Settings
+  [params.author]
+    author__name = "David Garrett"
+    author__bio = "Technologist, entrepreneur, part-time game designer."
+    author__avatar = "/images/dave.jpg"
+
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/carpedavid"
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://www.instagram.com/carpedavid/"
+
+  [[params.social]]
+    icon = "ion-logo-reddit"
+    name = "Reddit"
+    link = "https://www.reddit.com/r/amalara/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
