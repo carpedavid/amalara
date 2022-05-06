@@ -8,17 +8,17 @@
 
           <div class="pagination__list">
             {{ if $pag.HasPrev }}
-              <a href="{{ $pag.Prev.URL }}" class="pagination__prev pagination__item" rel="prev"><i class="ion ion-ios-arrow-back"></i> Prev</a>
+              <a href="{{ $pag.Prev.URL }}" class="pagination__prev pagination__item" rel="prev"><i class="fa-regular fa-arrow-left"></i> Prev</a>
             {{ else }}
-              <span class="pagination__prev pagination__item disabled"><i class="ion ion-ios-arrow-back"></i> Prev</span>
+              <span class="pagination__prev pagination__item disabled"><i class="fa-regular fa-arrow-left"></i> Prev</span>
             {{ end }}
 
             <div class="pagination__count pagination__item">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</div>
 
             {{ if $pag.HasNext }}
-              <a href="{{ $pag.Next.URL }}" class="pagination__next pagination__item">Next <i class="ion ion-ios-arrow-forward"></i></a>
+              <a href="{{ $pag.Next.URL }}" class="pagination__next pagination__item">Next <i class="fa-regular fa-arrow-right"></i></a>
             {{ else }}
-              <span class="pagination__next pagination__item disabled">Next <i class="ion ion-ios-arrow-forward"></i></span>
+              <span class="pagination__next pagination__item disabled">Next <i class="fa-regular fa-arrow-right"></i></span>
             {{ end }}
           </div>
 

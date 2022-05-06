@@ -44,8 +44,8 @@
       <div class="row">
         <div class="col col-12">
           <div class="footer__info-box">
-            <div class="copyright">{{ dateFormat "2006" now }} &copy; <a href="/">{{ .Site.Title }}</a>. All Right Reserved. Published with <a href="https://gohugo.io/">Hugo</a>.</div>
-            <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+            <div class="copyright">Copyright &copy; {{ dateFormat "2006" now }} {{ .Site.Params.author.author__name }}.</div>
+            <div class="top" title="Top"><i class="fa-regular fa-arrow-up"></i></div>
           </div>
         </div>
       </div>

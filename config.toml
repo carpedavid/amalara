@@ -38,19 +38,24 @@ paginate = 9
     author__avatar = "/images/dave.jpg"
 
   [[params.social]]
-    icon = "ion-logo-twitter"
+    icon = "fa-twitter"
     name = "Twitter"
     link = "https://twitter.com/carpedavid"
 
   [[params.social]]
-    icon = "ion-logo-instagram"
+    icon = "fa-instagram"
     name = "Instagram"
     link = "https://www.instagram.com/carpedavid/"
 
   [[params.social]]
-    icon = "ion-logo-reddit"
+    icon = "fa-reddit-alien"
     name = "Reddit"
     link = "https://www.reddit.com/r/amalara/"
+  
+  [[params.social]]
+    icon = "fa-patreon"
+    name = "Patreon"
+    link = "https://www.patreon.com/amalara"
 
 [markup]
   [markup.goldmark]
