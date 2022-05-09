@@ -23,12 +23,12 @@ paginate = 9
   [[menu.main]]
     identifier = "games"
     name = "Games"
-    url = "/games"
+    url = "/games/"
     weight = 3
 
 [params]
   logo = "/images/amalara_logo_v2.svg"
-  description = "Menca personal blogging theme for HUGO"
+  description = "Amalara Game Studio"
 
   #-------------------------------
   # Author Settings
@@ -56,6 +56,16 @@ paginate = 9
     icon = "fa-patreon"
     name = "Patreon"
     link = "https://www.patreon.com/amalara"
+
+  [params.hero]
+    hero__title = "I'm David Garrett"
+    hero__description = "At Amalara Game Studio, I create games that reward creativity, heroism, and teamwork."
+    hero__image = "/images/dave_photo.jpg"
+
+  [params.mailchimp]
+    mailchimp__identifier = "" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__input__text = "Get the latest news once per month."
+    mailchimp__button__text = "Subscribe"
 
 [markup]
   [markup.goldmark]

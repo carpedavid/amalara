@@ -1,7 +1,9 @@
 ---
 title: "Wendigo"
+description: "A solo, journaling game about the joy of believing that you're alone in the woods and the terror of finding out that you're not."
 date: 2022-05-09T13:11:38-04:00
-draft: false
+image: "/images/wendigo_cover.png"
+tags: [horror, solo]
 ---
 
 *A solo, journaling game about the joy of believing that you're alone in the woods and the terror of finding out that you're not.*
@@ -27,8 +29,7 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 
 Wendigo is available in digital form through itch and DriveThruRPG:
 
-{{< itch src="https://itch.io/embed/1313189" url="https://carpedavid.itch.io/wendigo" title="Wendigo by David Garrett" >}}
-
+- [itch.io](https://carpedavid.itch.io/wendigo)
 - [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo)
 
 If you prefer your games in physical form, you can purchase copies from:
