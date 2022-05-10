@@ -2,7 +2,6 @@ baseURL = "http://amalara.com/"
 languageCode = "en-us"
 theme = "menca"
 title = "Amalara Game Studio"
-paginate = 9
 
 #-------------------------------
 # Main Menu
