@@ -57,15 +57,15 @@ paginate = 9
     name = "Patreon"
     link = "https://www.patreon.com/amalara"
 
+  [[params.social]]
+    icon = "fa-itch-io"
+    name = "Itch.io"
+    link = "https://carpedavid.itch.io"
+
   [params.hero]
     hero__title = "I'm David Garrett"
     hero__description = "At Amalara Game Studio, I create games that reward creativity, heroism, and teamwork."
     hero__image = "/images/dave_photo.jpg"
-
-  [params.mailchimp]
-    mailchimp__identifier = "" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-    mailchimp__input__text = "Get the latest news once per month."
-    mailchimp__button__text = "Subscribe"
 
 [markup]
   [markup.goldmark]

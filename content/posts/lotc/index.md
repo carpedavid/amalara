@@ -1,6 +1,7 @@
 ---
 title: "Land of the Crane"
 date: 2022-05-09T14:01:54-04:00
+image: "images/lotc/web_logo@1200x800.png"
 ---
 
 A long time ago, I founded Amalara Game Studio to publish the Land of the Crane campaign setting. A world inspired by manga, anime, and a healthy dose of kung-fu films, it began life as a setting for Dungeons and Dragons, 3rd edition. As the world grew and matured, it was re-written as a campaign setting for the True20 system and was published by Green Ronin in their True 20: Worlds of Adventure supplement.
