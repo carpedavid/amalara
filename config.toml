@@ -2,7 +2,7 @@ baseURL = 'http://amalara.com/'
 languageCode = 'en-us'
 theme = 'menca'
 title = 'Amalara Game Studio'
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = ""
 paginate = 9
 
 #-------------------------------
