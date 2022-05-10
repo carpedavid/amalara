@@ -1,4 +1,4 @@
-baseURL = "http://amalara.com/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "menca"
 title = "Amalara Game Studio"
