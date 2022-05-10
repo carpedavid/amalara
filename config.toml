@@ -1,9 +1,7 @@
-baseURL = 'http://amalara.com/'
-languageCode = 'en-us'
-theme = 'menca'
-title = 'Amalara Game Studio'
-googleAnalytics = ""
-paginate = 9
+baseURL = "http://amalara.com/"
+languageCode = "en-us"
+theme = "menca"
+title = "Amalara Game Studio"
 
 #-------------------------------
 # Main Menu
