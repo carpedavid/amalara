@@ -25,7 +25,7 @@ title = "Amalara Game Studio"
     weight = 3
 
 [params]
-  logo = "/images/amalara_logo_v2.svg"
+  logo = "images/amalara_logo_v2.svg"
   description = "Amalara Game Studio"
 
   #-------------------------------

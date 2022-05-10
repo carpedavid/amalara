@@ -1,7 +1,7 @@
 ---
 title: "Relaunch"
 description: "I'm relaunching Amalara."
-date: 2022-05-09T13:56:46-04:00
+date: 2022-05-01
 image: "images/amalara/web_logo@1200x800.png"
 ---
 
