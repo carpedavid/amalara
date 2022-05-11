@@ -41,4 +41,16 @@
   <style>{{ .Content | safeCSS }}</style>
   {{ end }}
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+  <script type="text/javascript">
+    algoliasearchNetlify({
+      appId: '7FI4S1N5VS',
+      apiKey: 'dda44d8310d832e11ccd813e1451deba',
+      siteId: 'd1a5bda9-50b8-444a-90b6-50acd30b893a',
+      branch: 'main',
+      selector: 'div#search',
+    });
+  </script>
+
 </head>
