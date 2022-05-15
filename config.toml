@@ -24,6 +24,12 @@ title = "Amalara Game Studio"
     url = "/games/"
     weight = 3
 
+  [[menu.main]]
+    identifier = "shop"
+    name = "Shop"
+    url = "https://shop.amalara.com"
+    weight = 4
+
 [params]
   logo = "images/amalara_logo_v2.svg"
   description = "Amalara Game Studio"

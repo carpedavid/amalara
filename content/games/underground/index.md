@@ -46,7 +46,7 @@ Underground is available to purchase in digital form through itch and DriveThruR
 
 If you prefer your games in physical form, you can purchase copies from:
 
-- [Heroic Tales Shop](https://shop.heroictalesrpg.com/product/wendigo) - A5 full-color, saddle-stiched softcover printed by Mixam.
+- [Amalara Shop](https://shop.amalara.com/product/underground) - A5 full-color, saddle-stiched softcover printed by Mixam.
 
 *For solo or team play. Ages 10 and up.*
 

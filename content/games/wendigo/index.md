@@ -43,7 +43,7 @@ Wendigo is available to purchase in digital form through itch and DriveThruRPG:
 
 If you prefer your games in physical form, you can purchase copies from:
 
-- [Heroic Tales Shop](https://shop.heroictalesrpg.com/product/wendigo) - A5 full-color, saddle-stiched softcover printed by Mixam.
+- [Amalara Shop](https://shop.amalara.com/product/wendigo) - A5 full-color, saddle-stiched softcover printed by Mixam.
 - [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html) - A5 full-color, perfect-bound, print-on-demand softcover.
 
 *For solo play. Ages 13 and up.*
