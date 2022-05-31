@@ -36,7 +36,7 @@ To play Agent Purrvocateur, you’ll need the following in either analogue or di
 Agent Purrvocateur is available to purchase in digital form through itch and DriveThruRPG:
 
 - [itch.io](https://carpedavid.itch.io/agent-purrvocateur)
-- [DriveThruRPG](https://carpedavid.itch.io/agent-purrvocateur)
+- [DriveThruRPG](https://www.drivethrurpg.com/product/395249/Agent-Purrvocateur)
 
 Agent Purrvocateur is copyright © 2022 by David Garrett. Licensed for use under the Creative Commons Attribution 4.0 license.
 
