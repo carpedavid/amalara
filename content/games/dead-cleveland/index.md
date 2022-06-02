@@ -38,7 +38,7 @@ To play Dead Cleveland, you’ll need the following in either analogue or digita
 Dead Cleveland is available to purchase in digital form through itch and DriveThruRPG:
 
 - [itch.io](https://carpedavid.itch.io/dead-cleveland)
-- DriveThruRPG Coming Soon
+- [DriveThruRPG](https://www.drivethrurpg.com/product/398044/Dead-Cleveland)
 
 *For solo and team play. Ages 13 and up.*
 
