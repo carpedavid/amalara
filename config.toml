@@ -26,7 +26,7 @@ title = "Amalara Game Studio"
 
   [[menu.main]]
     identifier = "shop"
-    name = "Shop"
+    name = "Print Shop"
     url = "https://shop.amalara.com"
     weight = 4
 
