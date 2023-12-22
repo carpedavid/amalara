@@ -13,63 +13,14 @@ title = "Amalara Game Studio"
     weight = 1
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+    identifier = "store"
+    name = "Store"
+    url = "https://amalara.com"
     weight = 2
 
-  [[menu.main]]
-    identifier = "games"
-    name = "Games"
-    url = "/games/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "shop"
-    name = "Print Shop"
-    url = "https://shop.amalara.com"
-    weight = 4
-
 [params]
-  logo = "images/amalara_logo_v2.svg"
+  logo = "images/Logo.svg"
   description = "Amalara Game Studio"
-
-  #-------------------------------
-  # Author Settings
-  [params.author]
-    author__name = "David Garrett"
-    author__bio = "Technologist, entrepreneur, part-time game designer."
-    author__avatar = "/images/dave.jpg"
-
-  [[params.social]]
-    icon = "fa-twitter"
-    name = "Twitter"
-    link = "https://twitter.com/carpedavid"
-
-  [[params.social]]
-    icon = "fa-instagram"
-    name = "Instagram"
-    link = "https://www.instagram.com/carpedavid/"
-
-  [[params.social]]
-    icon = "fa-reddit-alien"
-    name = "Reddit"
-    link = "https://www.reddit.com/r/amalara/"
-  
-  [[params.social]]
-    icon = "fa-patreon"
-    name = "Patreon"
-    link = "https://www.patreon.com/amalara"
-
-  [[params.social]]
-    icon = "fa-itch-io"
-    name = "Itch.io"
-    link = "https://carpedavid.itch.io"
-
-  [params.hero]
-    hero__title = "I'm David Garrett"
-    hero__description = "At Amalara Game Studio, I create games that reward creativity, heroism, and teamwork."
-    hero__image = "/images/dave_photo.jpg"
 
 [markup]
   [markup.goldmark]
